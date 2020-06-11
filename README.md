@@ -1,4 +1,4 @@
-## [Live Demo](https://vvitsenets.github.io)
+## [<img width="500" alt="found2" src="https://user-images.githubusercontent.com/33357541/84373486-5202d800-abe5-11ea-999c-cd1aa2c0da5d.png">](https://vvitsenets.github.io)
 
 ### Real-time emotion recognition in browser using javascript library face-api.js
 
