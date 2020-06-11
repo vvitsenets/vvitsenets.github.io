@@ -48,5 +48,5 @@ The size of the quantized model is roughly 6.2 MB (face_recognition_model).
 
 The face expression recognition model is lightweight, fast and provides reasonable accuracy. The model has a size of roughly 310kb and it employs depthwise separable convolutions and densely connected blocks. It has been trained on a variety of images from publicly available datasets as well as images scraped from the web. Note, that wearing glasses might decrease the accuracy of the prediction results.
 
-<img width="1075" alt="final2" src="https://user-images.githubusercontent.com/33357541/84386198-96986e80-abf9-11ea-9283-974fdcf2f94b.png">
+[<img width="1075" alt="final2" src="https://user-images.githubusercontent.com/33357541/84386198-96986e80-abf9-11ea-9283-974fdcf2f94b.png">](https://vvitsenets.github.io)
  
